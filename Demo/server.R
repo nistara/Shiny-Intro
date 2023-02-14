@@ -19,9 +19,9 @@ function(input, output, session) {
         bins <- seq(min(x), max(x), length.out = input$bins + 1)
 
         # draw the histogram with the specified number of bins
-        hist(x, breaks = bins, col = 'darkgray', border = 'white',
-             xlab = 'Waiting time to next eruption (in mins)',
-             main = 'Histogram of waiting times')
+        hist(x, breaks = bins, col = 'orange', border = 'white',
+             xlab = 'Waiting time to next Shiny eruption (in mins)',
+             main = 'Histogram of waiting times in minutes')
 
     })
 
