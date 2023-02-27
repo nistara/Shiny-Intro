@@ -22,3 +22,10 @@ ui <- fluidPage(
     )
   )
 )
+
+
+# References
+# ==============================================================================
+# https://www.w3schools.com/tags/tag_figcaption.asp
+# https://allisonhorst.github.io/palmerpenguins/
+# https://plotly.com/r/reference/layout/
