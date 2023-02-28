@@ -1,4 +1,4 @@
 
-# Session 5: Reactivity
+# Session 3: Reactivity
 
 ![](../screenshots/hummers.png)
