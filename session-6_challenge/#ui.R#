@@ -16,7 +16,7 @@ shinyUI(
 
         h2("Select Data"),
 
-        # Choose data type to be mapped (choices set in global.R)
+        # Choose data type to be mapped (labels & choices set in global.R)
         selectInput("data_select", label = h3("Data type"), 
           choices = data_df$data_label,
           selected = data_df$data_label[ 1 ]

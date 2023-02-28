@@ -6,8 +6,10 @@ library(spData)
 library(sf)
 library(dplyr)
 
-data("world")
 
+# Load data
+# ------------------------------------------------------------------------------
+data("world")
 df = world[ world$name_long != "Antarctica", ]
 
 
