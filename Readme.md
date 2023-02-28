@@ -3,7 +3,7 @@
 
 ## Session 1:  First small demo
 
-![](../screenshots/old-faithful.png)
+![](screenshots/old-faithful.png)
 
 
 ## Session 3: Reactivity
