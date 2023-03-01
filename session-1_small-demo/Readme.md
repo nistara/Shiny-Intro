@@ -1,4 +1,4 @@
 
-# Session 1:  First small demo
+# Session 1:  Small demo
 
 ![](../screenshots/old-faithful.png)
