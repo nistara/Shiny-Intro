@@ -1,5 +1,6 @@
 # Challenge exercises from Shiny Intro class
 
+Exercies from the Introductory R Shiny Masterclass by [Epi-interactive](https://www.epi-interactive.com/).
 
 ## Session 1:  Small demo
 
