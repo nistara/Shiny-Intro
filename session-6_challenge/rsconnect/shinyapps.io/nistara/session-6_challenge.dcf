@@ -1,0 +1,14 @@
+name: session-6_challenge
+title: session-6_challenge
+username:
+account: nistara
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8454907
+bundleId: 6906084
+url: https://nistara.shinyapps.io/session-6_challenge/
+when: 1677746143.14621
+lastSyncTime: 1677746143.14622
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Readme.md
