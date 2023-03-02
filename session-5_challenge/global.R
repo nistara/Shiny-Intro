@@ -5,7 +5,8 @@ library("RColorBrewer")
 
 
 data(package = 'palmerpenguins')
-pal = rev(brewer.pal(3, "Set1"))
+# pal = rev(brewer.pal(3, "Set1"))
+pal = c("#FF8100", "#C25BCB", "#037075")
 
 fig = plot_ly(data = penguins,
   x = ~flipper_length_mm,
