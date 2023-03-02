@@ -27,7 +27,16 @@ shinyUI(
           choices = c("All", continents),
           selected = "All"
         )
+        
       )
     )
   )
 )
+
+
+# Notes from Nick
+# ------------------------------------------------------------------------------
+# To increase the width of the selectInput panel:
+# selectInput("data_select", label = h3("Data type"), width = 300, choices = data_df$data_label)
+# To increase width of wellPanel:
+# wellPanel(style = "width: 300px;", ...)
